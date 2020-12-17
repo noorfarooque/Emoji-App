@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  width: 80%;
+  height: 15vh;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-size: larger;
+}
+
+body {
+  background-image: url("https://st4.depositphotos.com/4103429/21525/i/1600/depositphotos_215254634-stock-photo-blister-with-painted-smileys-on.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
